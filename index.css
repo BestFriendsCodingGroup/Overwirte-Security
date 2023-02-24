@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+body {
+    background-color: Black;
+    color: white;
+    text-align: center;
+    font-family: Consolas, Courier, monospace;
+    letter-spacing: 3px;
+}
+img {border-radius: 25px;}
