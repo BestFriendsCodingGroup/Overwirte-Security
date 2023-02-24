@@ -55,3 +55,16 @@ img {border-radius: 25px;}
     100% {
         opacity: 1;
      }
+    }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
