@@ -4,6 +4,7 @@ body {
     text-align: center;
     font-family: Consolas, Courier, monospace;
     letter-spacing: 3px;
+    margin-bottom: 10em;
 }
 
 img {border-radius: 25px;}
