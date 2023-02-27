@@ -28,17 +28,11 @@ nav {
     background-image: linear-gradient(to bottom right, rgb(62, 62, 62), rgb(92, 92, 92));
     background-clip: text;
     color: transparent;
+    transform: scale(0.2);
   }
   nav h2 a {
     color: #FFF;
-    text-transform: lowercase;
-  }
-  nav h2 a:hover {
-    color: #FFF;
     text-transform: uppercase;
-    background-image: linear-gradient(to bottom right, rgb(62, 62, 62), rgb(92, 92, 92));
-    background-clip: text;
-    color: transparent;
   }
 
 @media only screen and (max-width: 600px) {
@@ -51,5 +45,5 @@ nav {
     }
     nav li {
       padding: 0.5rem 0;
-    }
-  } 
+  }
+} 
